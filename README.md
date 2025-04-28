@@ -1,4 +1,4 @@
-### Hi there 👋 I am Nitish Singh
+### Hi there 👋 I am Dakshak Patil
 
 #### About Me
 
