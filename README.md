@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine learning
 - 👯 I’m looking to collaborate on Various Projects
 - 💬 Ask me about Python,Machine Learning,Sql,Excel,PowerBI
-- 📫 How to reach me: dakshakpatil22@gmail.com
+- 📫 How to reach me: pd.dataanalyst.com
 
